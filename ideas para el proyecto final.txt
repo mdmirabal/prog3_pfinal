@@ -1,8 +1,12 @@
-#Por favor añadir las ideas con el siguiente formato
+#Por favor aÃ±adir las ideas con el siguiente formato
 #Nombre: 
-#Idea: Descripción
+#Idea: DescripciÃ³n
 #
 Nombre: Rodrigo Vergara
-Idea1: App botón de pánico (envio de alertas via SMS, email, 911, GPS, - NO redes sociales -)
-Idea2: App directorio personal administrativo y profesores, información de carreras, horarios, eventos (opcional).
+Idea1: App botÃ³n de pÃ¡nico (envio de alertas via SMS, email, 911, GPS, - NO redes sociales -)
+Idea2: App directorio personal administrativo y profesores, informaciÃ³n de carreras, horarios, eventos (opcional).
 Idea3: App
+
+Nombr: Moises Mirabal
+Idea1: Un catalogo de la cafeteria que cuente con la ubicacion, horarios y precios.
+Idea2: En caso de una situacion de emergencia, un App que te diga donde estan ubicadas las salidas de emergencia, elevadores, escaleras, enfermeria. Y que te diga como llegar a esos puntos.
